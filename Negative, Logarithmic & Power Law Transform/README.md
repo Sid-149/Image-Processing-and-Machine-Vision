@@ -1,10 +1,10 @@
 # Negative, Logarithmic & Power Law Transform
 
 ## Negative Transform
-![negative]()
+![negative](negative_output.PNG)
 
 ## Logarithmic Transform
-![logarithmic]()
+![logarithmic](logarithmic_output.PNG)
 
 ## Power Law Transform
-![powerlaw]()
+![powerlaw](powerlaw_output.PNG)
