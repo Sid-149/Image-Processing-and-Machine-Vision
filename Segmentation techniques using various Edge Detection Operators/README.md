@@ -1,10 +1,10 @@
 # Segmentation techniques using various Edge Detection Operators
 
 ## Prewitt:
-![out]()
+![out](prewitt_output.PNG)
 
 ## Robert:
-![out]()
+![out](robert_output.PNG)
 
 ## Sobel:
-![out]()
+![out](sobel_output.PNG)
